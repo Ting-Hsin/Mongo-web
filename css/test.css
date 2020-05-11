@@ -12,6 +12,9 @@ color: salmon;
 h2{
 color:green; 
 }
+p{
+	color: hotpink
+}
 .big{
 font-size: 60px
 }
